@@ -21,7 +21,7 @@
 
 Uma aplicação aonde para controle de agendamentos para um prestador de servições de uma barbearia.
 
-Para executar o projeto basta dar um `git clone https://github.com/tiagofsv95//gobarber-frontend-bootcamp11.git` no seu console e depois `yarn` para instalar as dependencias. Depois de instalar todas as dependencias basta executar `yarn start`.
+Para executar o projeto basta dar um `git clone https://github.com/tiagofsv95//gobarber-mobile-bootcamp11.git` no seu console e depois `yarn` para instalar as dependencias. Depois de instalar todas as dependencias basta executar `yarn android` ou `yarn ios`, caso você esteja emulando em um dispositivo android ou ios, respectivamente.
 
 ### Funcionalidades da aplicação
 
