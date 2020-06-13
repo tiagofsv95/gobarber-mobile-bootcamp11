@@ -30,7 +30,7 @@ export interface ProviderProps {
 
 const Dashboard: React.FC = () => {
   const { navigate } = useNavigation();
-  const { user } = useAuth();
+  const { user, signOut } = useAuth();
   const [providers, setProviders] = useState<ProviderProps[]>([]);
 
   useEffect(() => {
